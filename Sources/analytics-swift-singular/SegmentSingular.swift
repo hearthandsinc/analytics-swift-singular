@@ -34,7 +34,6 @@ public class SingularDestination: DestinationPlugin, iOSLifecycle {
     // we've already set up this singleton SDK, can't do it again, so skip.
     guard type == .initial else { return }
 
-    // TODO: Update the proper types
     guard let singularSettings = settings.integrationSettings(forKey: key) else {
       analytics?.log(message: "Singular settings could not load")
       return
@@ -62,7 +61,6 @@ public class SingularDestination: DestinationPlugin, iOSLifecycle {
       analytics?.log(message: "Singular track revenue \(revenue)")
       Singular.customRevenue(event.event, currency: currency, amount: revenue)
     } else {
-      analytics?.log(message: "Singular track event \(event.event)")
       Singular.event(event.event)
     }
     return event
