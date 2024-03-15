@@ -6,7 +6,7 @@ let package = Package(
   name: "SegmentSingular",
   platforms: [
     .macOS("10.15"),
-    .iOS("13.0"),
+    .iOS("16.0"),
     .tvOS("11.0"),
     .watchOS("7.1")
   ],

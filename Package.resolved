@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/segmentio/analytics-swift.git",
       "state" : {
-        "revision" : "51f56b972de8daee251f18fd2c91fa3a33c8d77e",
-        "version" : "1.5.2"
+        "revision" : "33f07bd5e4d216de92a163a8edad2c3216087cd9",
+        "version" : "1.5.5"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/singular-labs/Singular-iOS-SDK.git",
       "state" : {
-        "revision" : "b1db7d83909446cbb98b79af95dd94f0ff82b18a",
-        "version" : "12.3.0"
+        "revision" : "4c8afd06de543d22fc14392d6c5a0e0b10936375",
+        "version" : "12.3.2"
       }
     },
     {
@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/segmentio/sovran-swift.git",
       "state" : {
-        "revision" : "64f3b5150c282a34af4578188dce2fd597e600e3",
-        "version" : "1.1.0"
+        "revision" : "a342b905f6baa64499cabdf61ccc185ec476b7b2",
+        "version" : "1.1.1"
       }
     }
   ],
