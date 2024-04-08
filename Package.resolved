@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/singular-labs/Singular-iOS-SDK.git",
       "state" : {
-        "revision" : "b1db7d83909446cbb98b79af95dd94f0ff82b18a",
-        "version" : "12.3.0"
+        "revision" : "0c5c711225b4610ea1763321e5cbf668796aa618",
+        "version" : "12.3.3"
       }
     },
     {

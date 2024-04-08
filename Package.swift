@@ -25,7 +25,7 @@ let package = Package(
     ),
     .package(
       url: "https://github.com/singular-labs/Singular-iOS-SDK.git",
-      from: "12.0.7"
+      from: "12.3.3"
     )
   ],
   targets: [
